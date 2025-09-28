@@ -46,4 +46,3 @@ Enter the last name of the user : Doe
 Hello ! John Doe Welcome to the Python Program
 
 
-ChatGPT can make mistakes. Check im
